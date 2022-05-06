@@ -1,0 +1,132 @@
+
+===============================================
+Statistic
+
+Player name: Yegen
+Game rounds: 1
+User win: 0
+User louse: 0
+Tie rounds: 1
+===============================================
+
+
+===============================================
+Statistic
+
+Player name: Yegen
+Game rounds: 1
+User win: 1
+User louse: 0
+Tie rounds: 0
+===============================================
+
+
+===============================================
+Statistic
+
+Player name: Yegen
+Game rounds: 1
+User win: 0
+User louse: 1
+Tie rounds: 0
+===============================================
+
+
+===============================================
+Statistic
+
+Player name: Yegen
+Game rounds: 1
+User win: 0
+User louse: 1
+Tie rounds: 0
+===============================================
+
+
+===============================================
+Statistic
+
+Player name: Yegen
+Game rounds: 1
+User win: 0
+User louse: 1
+Tie rounds: 0
+===============================================
+
+
+===============================================
+Statistic
+
+Player name: Yegen
+Game rounds: 1
+User win: 0
+User louse: 1
+Tie rounds: 0
+===============================================
+
+
+===============================================
+Statistic
+
+Player name: Yegen
+Game rounds: 1
+User win: 0
+User louse: 0
+Tie rounds: 1
+===============================================
+
+
+===============================================
+Statistic
+
+Player name: Yegen
+Game rounds: 1
+User win: 1
+User louse: 0
+Tie rounds: 0
+===============================================
+
+
+===============================================
+Statistic
+
+Player name: Yegen
+Game rounds: 1
+User win: 0
+User louse: 1
+Tie rounds: 0
+===============================================
+
+
+===============================================
+Statistic
+
+Player name: Yegen
+Game rounds: 1
+User win: 0
+User louse: 0
+Tie rounds: 1
+===============================================
+
+
+===============================================
+Statistic
+
+Player name: Yegen
+Game rounds: 1
+User win: 0
+User louse: 1
+Tie rounds: 0
+===============================================
+
+
+===============================================
+Statistic
+
+Player name: Yegen
+Game rounds: 2
+User win: 0
+User louse: 1
+Tie rounds: 1
+===============================================
+
